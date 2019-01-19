@@ -1,2 +1,4 @@
 This program generates a given number of bouncing balls, detects when all of them have stopped bouncing, and then prompts the user to click
 the right mouse button to sort them all. A binary tree is used to sort balls according to size.
+
+See prompt.pdf and end.pdf
