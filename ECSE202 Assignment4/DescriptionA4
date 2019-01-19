@@ -1,0 +1,4 @@
+This program implements Assignment 3, but with a fully functional GUI allowing the user to control each aspect of the randomly
+generated balls. It also uses a combobox to allow to user to run and sort the program with new parameters as desired. 
+
+This also adds the ability for the user to pick up balls with the mouse and drop them again, change color, energy loss coefficient etc.
